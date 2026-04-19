@@ -1,13 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
-    <loc>https://digiempower.in/</loc>
-    <lastmod>2026-04-05</lastmod>
+    <loc>https://www.digiempowerindia.onprotal.in/</loc>
+    <lastmod>2026-04-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
-    <xhtml:link rel="alternate" hreflang="en-in" href="https://digiempower.in/"/>
-    <xhtml:link rel="alternate" hreflang="en-in" href="https://digiempowerindia.com/"/>
-    <xhtml:link rel="alternate" hreflang="en-in" href="https://digiempowerindia.in/"/>
+    <image:image>
+      <image:loc>https://www.digiempowerindia.onprotal.in/assets/hero-sales-pitch.png</image:loc>
+      <image:title>Digi Empower India — Digital Business Growth</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.digiempowerindia.onprotal.in/assets/logo-mark.png</image:loc>
+      <image:title>Digi Empower India Logo</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.digiempowerindia.onprotal.in/assets/og-card-1200x630.png</image:loc>
+      <image:title>Digi Empower India — Services Across Hyderabad, AP &amp; Telangana</image:title>
+    </image:image>
   </url>
 </urlset>
